@@ -19,6 +19,6 @@ let objOne = new scooter(2015, "red", "swoosh")
 let objTwo = new driver("Allison", "16 years", "2 years")
 let obj = new PickupLocation("123 Broadway", "New York City")
 
-obj.year;
+console.log(obj.year)
 obj.color ;
 obj.model
